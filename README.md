@@ -19,6 +19,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=GSDeveloper&show_icons=true&bg_color=0d1117&text_color=FFF&border_color=444" height="165">
   </a>
 </p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GSDeveloper&layout=compact&theme=tokyonight)
 
   ```csharp
 using github;
